@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7abae327f30b5e24988bc8b5ec660ebb, type: 3}
+  m_Name: IronOre
+  m_EditorClassIdentifier: 
+  itemName: 
+  itemID: 0
+  itemIcon: {fileID: 21300000, guid: 17f5e149e9def4942b0a7eacdb5d077c, type: 3}
+  isStackable: 1
+  maxStackSize: 20
+  type: 4
+  dropReference: {fileID: 3222301273500572176, guid: ac0b43f5a2b5e494db254bb7e376f894, type: 3}
+  equipReference: {fileID: 7654725530181140046, guid: 1f237918a4d67a14b827ce05c3bf28cb, type: 3}
+  plantGrowObject: {fileID: 0}

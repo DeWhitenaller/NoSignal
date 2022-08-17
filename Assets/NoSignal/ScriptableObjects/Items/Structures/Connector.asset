@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f5296a30adcd8204a8d8b5b4040e8e3d, type: 3}
+  m_Name: Connector
+  m_EditorClassIdentifier: 
+  itemName: 
+  itemID: 0
+  itemIcon: {fileID: 21300000, guid: 70c89b96c159abf4c80c06d848a2b5c7, type: 3}
+  isStackable: 0
+  maxStackSize: 10
+  type: 3
+  dropReference: {fileID: 7574791196922621342, guid: e3c0df55c7e7a3e40b8d531a6760d165, type: 3}
+  equipReference: {fileID: 1275116363930401051, guid: c454d91710911034ba68d34ba21da08a, type: 3}
+  plantGrowObject: {fileID: 0}
+  structureType: 3
+  structureObjectReference: {fileID: 443691724400402067, guid: 8b5939526d984134e83a56de2f0a2fb8, type: 3}
+  structureObjectPreviewReference: {fileID: 3166891850949712697, guid: 9578c3cadfcb25d49b685f16fe32261e, type: 3}
+  snapPointLayer:
+    serializedVersion: 2
+    m_Bits: 32768
+  solidLayer:
+    serializedVersion: 2
+    m_Bits: 64
+  previewGetsInterruptedBy:
+    serializedVersion: 2
+    m_Bits: 2147483647
+  canBeRotated: 0

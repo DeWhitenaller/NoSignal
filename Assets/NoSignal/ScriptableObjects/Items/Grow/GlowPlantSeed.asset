@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 91518978a45f44544aa738c863c306cf, type: 3}
+  m_Name: GlowPlantSeed
+  m_EditorClassIdentifier: 
+  itemName: 
+  itemID: 0
+  itemIcon: {fileID: 21300000, guid: 021f513074a369c4398b7f3b07537315, type: 3}
+  isStackable: 1
+  maxStackSize: 20
+  type: 5
+  dropReference: {fileID: 437323256194961885, guid: 14e16f7f0fce22549a620a552090964f, type: 3}
+  equipReference: {fileID: 0}
+  plantGrowObject: {fileID: 1954408890206603101, guid: cb28acc40243b164ebee14a0b6c2a5f6, type: 3}

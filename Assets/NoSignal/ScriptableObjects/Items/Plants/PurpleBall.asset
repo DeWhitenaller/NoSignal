@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7abae327f30b5e24988bc8b5ec660ebb, type: 3}
+  m_Name: PurpleBall
+  m_EditorClassIdentifier: 
+  itemName: 
+  itemID: 0
+  itemIcon: {fileID: 21300000, guid: 30ef7f2432f13c14f9b5642f29cf7262, type: 3}
+  isStackable: 1
+  maxStackSize: 10
+  type: 1
+  dropReference: {fileID: 8182773699828904619, guid: e0c3158518d3e724e8c788c8409ddb25, type: 3}
+  equipReference: {fileID: 6737680319729917977, guid: d9eecd71d6fb95b4c84e8a8230f65299, type: 3}
+  plantGrowObject: {fileID: 0}

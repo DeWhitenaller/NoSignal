@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4a15363b647f35849aece5df568cb045, type: 3}
+  m_Name: SpaceShipCraftStation
+  m_EditorClassIdentifier: 
+  itemName: 
+  itemID: 0
+  itemIcon: {fileID: 0}
+  isStackable: 0
+  maxStackSize: 1
+  type: 3
+  dropReference: {fileID: 0}
+  equipReference: {fileID: 0}
+  plantGrowObject: {fileID: 0}
+  structureType: 0
+  structureObjectReference: {fileID: 0}
+  structureObjectPreviewReference: {fileID: 0}
+  snapPointLayer:
+    serializedVersion: 2
+    m_Bits: 0
+  solidLayer:
+    serializedVersion: 2
+    m_Bits: 0
+  previewGetsInterruptedBy:
+    serializedVersion: 2
+    m_Bits: 0
+  canBeRotated: 0
+  craftableItems:
+  - {fileID: 11400000, guid: fe3a7a0356a68f144827c6bcd08dedd4, type: 2}
+  - {fileID: 11400000, guid: cd06f41d7698d9b4b981fb4dabc4ff55, type: 2}
+  - {fileID: 11400000, guid: df834bc6256f3a44dadfbc0f3f7835f4, type: 2}
+  - {fileID: 11400000, guid: 0084196f4765aba4594685d2503bcc57, type: 2}
+  - {fileID: 11400000, guid: 248760496d9d04343965897ad9d01bf8, type: 2}
+  - {fileID: 11400000, guid: 8af6285ea7d194041951d70609ca7703, type: 2}
+  - {fileID: 11400000, guid: 92f7134ea004a274a9657fe9b58e2f92, type: 2}
+  - {fileID: 11400000, guid: 2c7e8715d45b89e41b1401eec0ab4821, type: 2}
+  - {fileID: 11400000, guid: 46da653fb8f0b904d852ce95509a48fd, type: 2}
+  maxInventorySize: 15

@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4a15363b647f35849aece5df568cb045, type: 3}
+  m_Name: PlayerCraftStation
+  m_EditorClassIdentifier: 
+  itemName: PlayerCraftStation
+  itemID: 0
+  itemIcon: {fileID: 0}
+  isStackable: 0
+  maxStackSize: 0
+  dropReference: {fileID: 0}
+  equipReference: {fileID: 0}
+  structureType: 3
+  structureObjectReference: {fileID: 0}
+  structureObjectPreviewReference: {fileID: 0}
+  snapPointLayer:
+    serializedVersion: 2
+    m_Bits: 0
+  solidLayer:
+    serializedVersion: 2
+    m_Bits: 0
+  previewGetsInterruptedBy:
+    serializedVersion: 2
+    m_Bits: 0
+  canBeRotated: 0
+  craftableItems:
+  - {fileID: 11400000, guid: 90b282d3e4a617b4b9822a52be58e90b, type: 2}
+  maxInventorySize: 36

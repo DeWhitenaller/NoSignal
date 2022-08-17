@@ -1,0 +1,11 @@
+How to create an item:
+
+1. Create the main gameobject
+2. Create the collectable gameobject
+3. Create the equippable gameobject
+
+4. FOR STRUCTURES ONLY - Create a preview gameobject
+
+5. Create the scriptable object under "Create/items"
+
+6. IF CRAFTABLE - Create the craft receipt under "Create/craftableitem"

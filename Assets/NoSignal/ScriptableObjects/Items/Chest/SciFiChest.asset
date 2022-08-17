@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 02f3d4dbb0a435944b3991c140ee8684, type: 3}
+  m_Name: SciFiChest
+  m_EditorClassIdentifier: 
+  itemName: SciFiChest
+  itemID: 0
+  itemIcon: {fileID: 21300000, guid: 677cf6990b3342347a5353c0fed10e51, type: 3}
+  isStackable: 0
+  maxStackSize: 1
+  type: 3
+  dropReference: {fileID: 7662883521486880886, guid: 54a6f8f873e0919428622495ca023701, type: 3}
+  equipReference: {fileID: 3630254139185741383, guid: f2a03cf41cef94741871900e01a11774, type: 3}
+  plantGrowObject: {fileID: 0}
+  structureType: 4
+  structureObjectReference: {fileID: 6966855665107871205, guid: 25a819041daa1664588cd14dda0dadd2, type: 3}
+  structureObjectPreviewReference: {fileID: 8879005464211675712, guid: 8ea9c977970d800458b82f4cefc714e2, type: 3}
+  snapPointLayer:
+    serializedVersion: 2
+    m_Bits: 0
+  solidLayer:
+    serializedVersion: 2
+    m_Bits: 64
+  previewGetsInterruptedBy:
+    serializedVersion: 2
+    m_Bits: 85264
+  canBeRotated: 0
+  maxInventorySize: 20

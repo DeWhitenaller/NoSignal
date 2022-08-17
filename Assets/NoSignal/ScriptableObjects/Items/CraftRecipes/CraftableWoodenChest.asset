@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b572abf7a55bb394291c5ecfa0cce763, type: 3}
+  m_Name: CraftableWoodenChest
+  m_EditorClassIdentifier: 
+  itemName: WoodenChest
+  itemIcon: {fileID: 21300000, guid: 6ab3fd6b6443c3e44ac07fde0084af95, type: 3}
+  itemReference: {fileID: 11400000, guid: 57bebc9915b6d0e4c8c1d8aef2436ebe, type: 2}
+  itemsNeeded:
+  - {fileID: 11400000, guid: 083e10a20a018fd44acc294d516cb5ac, type: 2}
+  - {fileID: 11400000, guid: c913d25dc279cc44a90dd9e88b119563, type: 2}
+  amountsNeeded: 140000000f000000
+  craftingTime: 2
+  amountPerCraft: 1

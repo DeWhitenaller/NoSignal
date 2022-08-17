@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7abae327f30b5e24988bc8b5ec660ebb, type: 3}
+  m_Name: StoneOre
+  m_EditorClassIdentifier: 
+  itemName: Stone
+  itemID: 0
+  itemIcon: {fileID: 21300000, guid: fb6d9c89c2de8744592f62cf510cea65, type: 3}
+  isStackable: 1
+  maxStackSize: 20
+  type: 4
+  dropReference: {fileID: 843573531578353980, guid: f80708f0d8ee9984da34e1a949998b81, type: 3}
+  equipReference: {fileID: 7363878438080727658, guid: f167a7bd8d352ed4584970ea98c70e9d, type: 3}
+  plantGrowObject: {fileID: 0}

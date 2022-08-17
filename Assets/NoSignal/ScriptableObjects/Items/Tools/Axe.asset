@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0fd07df413608da468ca5338fed1557c, type: 3}
+  m_Name: Axe
+  m_EditorClassIdentifier: 
+  itemName: Axe
+  itemID: 0
+  itemIcon: {fileID: 21300000, guid: 763bdf500c5c24f698f8e1839ab00640, type: 3}
+  isStackable: 0
+  maxStackSize: 1
+  type: 0
+  dropReference: {fileID: 7552296711107713854, guid: 1001ec2bd4a5354409fedac804657b86, type: 3}
+  equipReference: {fileID: 920804018962690369, guid: 6a40c40d8719d8f40b7a704be1fd7197, type: 3}
+  plantGrowObject: {fileID: 0}
+  toolType: 1
+  hitRadius: 1
+  damage: 5

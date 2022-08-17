@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4a15363b647f35849aece5df568cb045, type: 3}
+  m_Name: Workbench
+  m_EditorClassIdentifier: 
+  itemName: Workbench
+  itemID: 0
+  itemIcon: {fileID: 21300000, guid: 3de0a5c20801a44d4a6acea442bc2bd4, type: 3}
+  isStackable: 1
+  maxStackSize: 100
+  dropReference: {fileID: 4875523992888166654, guid: 557c37c0fcddb934180fbce5d133721c, type: 3}
+  equipReference: {fileID: 1394118757731896540, guid: 5acb7447d925f47438947302ae4db437, type: 3}
+  structureType: 3
+  structureObjectReference: {fileID: 5936528704736393168, guid: 1c5ba92cc093e51498365190fdd4c7bc, type: 3}
+  structureObjectPreviewReference: {fileID: 7771235231303025738, guid: e1de3e88e9ec8a940b97a87b824fd8f9, type: 3}
+  snapPointLayer:
+    serializedVersion: 2
+    m_Bits: 0
+  solidLayer:
+    serializedVersion: 2
+    m_Bits: 72
+  previewGetsInterruptedBy:
+    serializedVersion: 2
+    m_Bits: 2048
+  canBeRotated: 0
+  craftableItems:
+  - {fileID: 11400000, guid: fe3a7a0356a68f144827c6bcd08dedd4, type: 2}
+  - {fileID: 11400000, guid: 248760496d9d04343965897ad9d01bf8, type: 2}
+  - {fileID: 11400000, guid: aa4846d4eef1d0c428a696c8631395a4, type: 2}
+  maxInventorySize: 4

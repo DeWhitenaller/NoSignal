@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f5296a30adcd8204a8d8b5b4040e8e3d, type: 3}
+  m_Name: Wall
+  m_EditorClassIdentifier: 
+  itemName: Wall
+  itemID: 0
+  itemIcon: {fileID: 21300000, guid: 0bd9c25f7b22f4431a40c10c4e9d7044, type: 3}
+  isStackable: 1
+  maxStackSize: 50
+  type: 3
+  dropReference: {fileID: 2816359104197331198, guid: c7dbf0d3268db3e4aabbc0c046fb0459, type: 3}
+  equipReference: {fileID: 7221648134678512120, guid: 11eb55d456a4ccc488a4b9d0df06be78, type: 3}
+  structureType: 1
+  structureObjectReference: {fileID: 8677130945877725092, guid: 4ce2be3bd673776479ff6e8ab42c39ad, type: 3}
+  structureObjectPreviewReference: {fileID: 5213017595412140001, guid: 7de489bc37eda0c4fa622e07f363394f, type: 3}
+  snapPointLayer:
+    serializedVersion: 2
+    m_Bits: 8192
+  solidLayer:
+    serializedVersion: 2
+    m_Bits: 32776
+  previewGetsInterruptedBy:
+    serializedVersion: 2
+    m_Bits: 36680
+  canBeRotated: 0
